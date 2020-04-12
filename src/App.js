@@ -24,3 +24,5 @@ function App() {
 }
 
 export default App;
+// uur ajillaj bga server zogsooh
+// taskkill -F -IM node.exe
