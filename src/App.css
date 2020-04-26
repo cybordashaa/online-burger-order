@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.MyCoolButton{
+  width: 250px;
+  height: 40px;
+  font-size: 18px;
+}
 
 .App-logo {
   height: 40vmin;
